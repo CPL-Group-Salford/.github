@@ -1,1 +1,49 @@
-## CPL Group
+<p align="center">
+<a href="https://cpl.group"><img src="https://user-images.githubusercontent.com/39706150/206495648-83126a79-c593-40e4-9e71-ee1cc1a73c3c.png" alt="CPL Group Logo" width=400 /></a>
+</p>
+
+<p align="center">
+<a href="https://cpl.group"><img src="https://img.shields.io/website?label=CPL%20Group&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fcpl.group" alt="CPL Group Status"/></a>
+<a href="https://www.thecpc.ac.uk"><img src="https://img.shields.io/website?label=The%20CPC&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwww.thecpc.ac.uk" alt="The CPC Status"/></a>
+<a href="https://twitter.com/CPLGroupUK"><img src="https://img.shields.io/twitter/follow/CPLGroupUK?label=%40CPLGroupUK&logo=twitter&style=for-the-badge&color=9cf" alt="The CPC Twitter"/></a>
+</p>
+
+## About CPL Group
+
+CPL Group is comprised of three not-for-profit organisations which are owned by the education sector.
+
+Any surpluses made by these organisations are reviewed by the charity’s board of trustees and following approval, a proportion is redistributed into the education sector.
+
+Our **Mission** is to provide outstanding procurement services to members and clients. Our **Vision** is to be the procurement services partner of choice for the education sector and, through our work, help the sector to enhance teaching and learning. Our **Values** deliver our distinctive culture, underpin our relationships, and define what makes CPL Group a unique place to work.
+
+## Values in Action
+
+<div align="left">
+  <img align="left" src="https://user-images.githubusercontent.com/39706150/206502249-57200b58-798f-4b99-94af-0297520fc71f.svg" width="100" height="100" />
+  <h3>Supportive</h3>
+  <p>Supporting our staff and customers is important to us. We listen to customer views and staff ideas and work together to provide an exceptional service. We heavily invest in the principles of training for all, sharing knowledge and guidance.</p>
+</div>
+
+<div align="right">
+  <img align="right" src="https://user-images.githubusercontent.com/39706150/206502108-2b1eb4c9-ad79-48a6-aa64-bf98e6650e1c.svg" width="100" height="100" />
+  <h3>Collaborative</h3>
+  <p>Working together achieves more. We share best practice and knowledge through teamwork and strive to develop innovative approaches through strong partnerships.</p>
+</div>
+
+<div align="left">
+  <img align="left" src="https://user-images.githubusercontent.com/39706150/206502295-c1607ad8-dae9-4146-a506-141dbbb18aac.svg" width="100" height="100" />
+  <h3>Customer Focused</h3>
+  <p>Everything we do is for the benefit of our customers. We are 100% committed to delivering the highest-quality service and support that exceeds expectations.</p>
+</div>
+
+<div align="right">
+  <img align="right" src="https://user-images.githubusercontent.com/39706150/206502325-63795043-0cd7-43a7-b53d-f6c5d5f5bf13.svg" width="100" height="100" />
+  <h3>Professional</h3>
+  <p>Acting with honesty, integrity and treating everyone with respect, we strive to deliver the highest standards to achieve strong working relationships.</p>
+</div>
+
+<div align="left">
+  <img align="left" src="https://user-images.githubusercontent.com/39706150/206502349-81752800-9d01-4bd7-abe5-370b71db5c0d.svg" width="100" height="100" />
+  <h3>People Oriented</h3>
+  <p>Our greatest strength is our people. They are at the heart of all that we do. We provide a caring environment that focuses on individual needs so that our people play an active role in developing the charitable objectives of the Group.</p>
+</div>
