@@ -1,16 +1,16 @@
 <p align="center">
-<a href="https://cpl.group"><img src="https://user-images.githubusercontent.com/39706150/206495648-83126a79-c593-40e4-9e71-ee1cc1a73c3c.png" alt="CPL Group Logo" width=400 /></a>
+<a href="https://www.thecpc.ac.uk"><img src="https://github.com/CPL-Group-Salford/.github-private/assets/93585056/afcac6d3-736f-4b59-b28b-36ac2b14cef9" alt="CPC Logo" width=400 /></a>
+
 </p>
 
 <p align="center">
-<a href="https://cpl.group"><img src="https://img.shields.io/website?label=CPL%20Group&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fcpl.group" alt="CPL Group Status"/></a>
 <a href="https://www.thecpc.ac.uk"><img src="https://img.shields.io/website?label=The%20CPC&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwww.thecpc.ac.uk" alt="The CPC Status"/></a>
-<a href="https://twitter.com/CPLGroupUK"><img src="https://img.shields.io/twitter/follow/CPLGroupUK?label=%40CPLGroupUK&logo=twitter&style=for-the-badge&color=9cf" alt="The CPC Twitter"/></a>
 </p>
 
-## About CPL Group
 
-CPL Group is comprised of three not-for-profit organisations which are owned by the education sector.
+## About The CPC
+
+The CPC is a not-for-profit organisation owned by the education sector.
 
 Any surpluses made by these organisations are reviewed by the charity’s board of trustees and following approval, a proportion is redistributed into the education sector.
 
