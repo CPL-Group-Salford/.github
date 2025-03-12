@@ -10,7 +10,7 @@
 
 ## About The CPC
 
-The CPC is a not-for-profit organisation owned by the education sector.
+Crescent Purchasing Consortium (CPC) provide purchasing frameworks, dynamic purchasing systems (DPS) and procurement consultancy services for schools, academies, colleges, universities and other educational organisations.
 
 Any surpluses made by these organisations are reviewed by the charity’s board of trustees and following approval, a proportion is redistributed into the education sector.
 
